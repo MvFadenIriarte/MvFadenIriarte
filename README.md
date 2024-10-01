@@ -1,7 +1,7 @@
 Yo
 - 🔭 I’m currently working on starting a barber business and technology business
 - 🌱 I’m currently learning data science and audio visual
-- 👯 I’m looking to collaborate on creating a tech business to advance third world countries
+-  I’m looking to collaborate on creating a tech business to advance third world countries
 - 🤔 I’m looking for help with selling technology and technological services
 - 💬 thinking about food
 - 📫 How to reach me📧mvfaden.iriarte@student.chaminade.edu
